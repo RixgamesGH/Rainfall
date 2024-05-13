@@ -1,1 +1,3 @@
 # Rainfall
+
+![](rainfall.png)
